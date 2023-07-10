@@ -3,10 +3,6 @@ layout: cv
 title: 施绪灏简历
 email:
   url: sxh035068@gmail.com
-  text: 
-homepage:
-  url: 
-  text: 
 ---
 
 # 简历
