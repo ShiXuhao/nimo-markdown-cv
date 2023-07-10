@@ -53,7 +53,7 @@ email: sxh035068@gmail.com
 
 ## AI使用经验：
 
-1. ChatGPT：我熟练掌握prompt编写，包括基础能力和结构化prompt。我使用ChatGPT进行写作、编程、游戏、金融和娱乐等多方面的应用。
+1. ChatGPT：我熟练掌握prompt中英文编写，包括基础能力和结构化prompt。我使用ChatGPT进行写作、编程、游戏、金融和娱乐等多方面的应用。
 2. Midjourney：我熟练掌握prompt编写，包括通用prompt、垫图、混图、prompt优化、提取prompt和插件等。我使用Midjourney进行小说人物&场景和动漫人物转真人等应用。
 3. Claude：我使用Claude进行小说情节、设定讨论和简历优化等应用。
 
