@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: 施绪灏简历
-email:
-  url: sxh035068@gmail.com
+title: 施绪灏
+job: prompt engineer
+email: sxh035068@gmail.com
 ---
 
 # 简历
